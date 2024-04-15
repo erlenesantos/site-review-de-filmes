@@ -16,8 +16,11 @@ Adm
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
 Usuário
+
 Receita
+
 Comentário
+
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
