@@ -8,7 +8,9 @@ Um site com receitas culinárias.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 Usuário não logado
+
 Usuário logado
+
 Adm
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
