@@ -22,7 +22,9 @@ Comentário
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
 Usuário não logado: visualiza as receitas disponíveis, os comentários e avaliações feitos por usuários logados.
+
 Usuário logado: pode fazer tudo que um usuário não logado faz, além de comentar, favoritar e avaliar as receitas.
+
 Adm.: pode excluir, adicionar e editar receitas, além de excluir comentários.
 
 ----
