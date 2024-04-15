@@ -1,25 +1,27 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Site de receitas
 
-Breve descrição do que o seu projeto faz.
+Um site com receitas culinárias.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+539038, Antonia Erlene dos Santos, Ciência da Computação.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
-
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Usuário não logado
+Usuário logado
+Adm
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuário
+Receita
+Comentário
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
+Usuário não logado: visualiza as receitas disponíveis, os comentários e avaliações feitos por usuários logados.
+Usuário logado: pode fazer tudo que um usuário não logado faz, além de comentar, favoritar e avaliar as receitas.
+Adm.: pode excluir, adicionar e editar receitas, além de excluir comentários.
 
 ----
 
