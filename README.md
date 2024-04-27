@@ -1,6 +1,6 @@
-# :checkered_flag: Site de receitas
+# :checkered_flag: Site de review de filmes
 
-Um site com receitas culinárias.
+Um site de review de filmes.
 
 ## :technologist: Membros da equipe
 
@@ -17,18 +17,18 @@ Adm
 
 Usuário
 
-Receita
+Filme
 
-Comentário
+Avaliação
 
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Usuário não logado: visualiza as receitas disponíveis, os comentários e avaliações feitos por usuários logados.
+Usuário não logado: visualiza a ficha do filme e as avaliações feitas por usuários logados.
 
-Usuário logado: pode fazer tudo que um usuário não logado faz, além de comentar, favoritar e avaliar as receitas.
+Usuário logado: pode fazer tudo que um usuário não logado faz, além de fazer uma avaliação e favoritar filme.
 
-Adm.: pode excluir, adicionar e editar receitas, além de excluir comentários.
+Adm.: pode excluir, adicionar e editar filmes, além de excluir avaliações.
 
 ----
 
