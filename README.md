@@ -1,6 +1,6 @@
 # :checkered_flag: Site de review de filmes
 
-Um site de review de filmes.
+Uma aplicação web para review de filmes.
 
 ## :technologist: Membros da equipe
 
