@@ -5,6 +5,7 @@ Uma aplicação web para review de filmes.
 ## :technologist: Membros da equipe
 
 539038, Antonia Erlene dos Santos, Ciência da Computação.
+
 536676, Maria Beatriz Rodrigues de Sousa Fernandes, Ciência da Computação 
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
